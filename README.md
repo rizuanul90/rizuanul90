@@ -1,10 +1,10 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/rizuanul90/">Programmer</a>, <a href="www.linkedin.com/in/rizuanul-haque">Cybersecurity Professional</a>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/rizuanul90/">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/rizuanul-haque">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybercecurity Projects:</h2>
 
 <h2>📺 Certificates:</h2>
 
-- [Google Cybersecurity Professional](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F0ef793b8-8dd9-4230-b42a-f4e4e62a3998%2Flinked_in_profile&urlhash=W6hH&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BMy6V%2BXO9Qye2wMy4bvWseQ%3D%3D)
+- [Google Cybersecurity Professional](https://www.credly.com/badges/0ef793b8-8dd9-4230-b42a-f4e4e62a3998/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
