@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/rizuanul90/">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/rizuanul-haque">Cybersecurity Professional</a>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/rizuanul90/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/rizuanul-haque">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybercecurity Projects:</h2>
 
