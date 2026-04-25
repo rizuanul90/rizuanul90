@@ -1,8 +1,12 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/rizuanul90/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/rizuanul-haque">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybercecurity Projects:</h2>
 
-<h2>📺 Certificates:</h2>
+<h2>👨‍💻 Projects:</h2>
+
+- [Active Directory Home Lab](https://www.credly.com/badges/0ef793b8-8dd9-4230-b42a-f4e4e62a3998/public_url)
+
+- 
+<h2>📜 Certificates:</h2>
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/0ef793b8-8dd9-4230-b42a-f4e4e62a3998/public_url)
 
