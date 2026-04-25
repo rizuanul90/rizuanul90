@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Active Directory Home Lab](https://www.credly.com/badges/0ef793b8-8dd9-4230-b42a-f4e4e62a3998/public_url)
+- [Active Directory Home Lab](https://github.com/rizuanul90/ActiveDirectoryLab)
 
 - 
 <h2>📜 Certificates:</h2>
