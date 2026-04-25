@@ -22,7 +22,7 @@
 [linkedin]: www.linkedin.com/in/rizuanul-haque
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rizuanul90/rizuanul90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
