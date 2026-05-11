@@ -4,6 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/rizuanul90/ActiveDirectoryLab)
+- [Python home Lab](https://github.com/rizuanul90/PythonLab)
 
 <h2>📜 Certificates:</h2>
 
