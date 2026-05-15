@@ -11,6 +11,7 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/73a23efc-5cf8-4cb5-a3e8-d80ffa4f1ce0/public_url)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/0ef793b8-8dd9-4230-b42a-f4e4e62a3998/public_url)
+- [Google AI Essentials](https://www.credly.com/badges/6b4f8214-16c7-40fb-8708-ae08b01165fd/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
