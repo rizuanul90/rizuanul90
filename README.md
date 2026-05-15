@@ -5,6 +5,7 @@
 
 - [Active Directory Home Lab](https://github.com/rizuanul90/ActiveDirectoryLab)
 - [Python home Lab](https://github.com/rizuanul90/PythonLab)
+- [Metasploit Workspace & SSH Brute Force Lab](https://github.com/rizuanul90/Metasploit-Workspace-and-SSH-Brute-Force-lab)
 
 <h2>📜 Certificates:</h2>
 
