@@ -8,7 +8,7 @@
 
 ## 🔐 About Me
 
-IT professional with 4+ years of experience in QA engineering and systems validation, now fully focused on cybersecurity. I've trained in SOC operations, threat analysis, vulnerability assessment, and incident response through NPower's Advanced Cybersecurity Cohort and an active Network Security internship at The Cyber Ledger. I hold CompTIA Security+ and am actively pursuing SOC Analyst and Security Engineer roles in NYC.
+IT professional with 4+ years of experience in QA engineering and systems validation, now fully focused on cybersecurity. I've trained in SOC operations, threat analysis, vulnerability assessment, and incident response through NPower's Advanced Cybersecurity Cohort and an active Network Security internship at The Cyber Ledger. I hold CompTIA Security+ and am actively pursuing SOC Analyst and Security Engineer roles.
 
 ---
 
@@ -43,7 +43,7 @@ IT professional with 4+ years of experience in QA engineering and systems valida
 
 - **NPower Advanced Cybersecurity Cohort** — Graduated June 2026 | SOC operations, threat hunting, log analysis, incident response, vulnerability assessment
 - **Network Security Internship** — The Cyber Ledger (Jan 2026 – Present) | Packet analysis, enterprise protocol analysis, Sigma rules, SOC workflow
-- **B.A.S. in Computer Science & Information Security** — John Jay College of Criminal Justice (Expected 2026)
+- **B.A.S. in Computer Science & Information Security** — John Jay College of Criminal Justice (Expected 2027)
 
 ---
 
