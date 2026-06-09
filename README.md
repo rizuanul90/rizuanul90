@@ -1,47 +1,52 @@
-<h1>Hi, I'm Rizuan! <br/><a href="https://github.com/rizuanul90/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/rizuanul-haque">Cybersecurity Professional</a>
+# Hi, I'm Rizuan 👋
 
+**Cybersecurity Professional** | CompTIA Security+ | NPower Advanced Cybersecurity (2026) | Network Security Intern @ The Cyber Ledger
 
-<h2>👨‍💻 Projects:</h2>
+📍 New York, NY &nbsp;|&nbsp; 🌐 [Portfolio](https://rizuanul90.github.io) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rizuanul-haque)
 
-- [Active Directory Home Lab](https://github.com/rizuanul90/ActiveDirectoryLab)
-- [Python home Lab](https://github.com/rizuanul90/PythonLab)
-- [Metasploit Workspace & SSH Brute Force Lab](https://github.com/rizuanul90/Metasploit-Workspace-and-SSH-Brute-Force-lab)
-- [WordPress-Exploitation-Lab](https://github.com/rizuanul90/WordPress-Exploitation-Lab)
-- [Nessus Lab](https://github.com/rizuanul90/nessus-vulnerability-scan)
+---
 
+## 🔐 About Me
 
-<h2>📜 Certificates:</h2>
+IT professional with 4+ years of experience in QA engineering and systems validation, now fully focused on cybersecurity. I've trained in SOC operations, threat analysis, vulnerability assessment, and incident response through NPower's Advanced Cybersecurity Cohort and an active Network Security internship at The Cyber Ledger. I hold CompTIA Security+ and am actively pursuing SOC Analyst and Security Engineer roles in NYC.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Security & Networking:** SIEM (Splunk/Sentinel), Wireshark, Nmap, Nessus, Metasploit, IDS/IPS, EDR
+- **Scripting & Automation:** Python, Bash, SQL, Java
+- **Cloud & Infrastructure:** AWS, Azure, VMware, VirtualBox, Active Directory
+- **Operating Systems:** Windows, Linux (Kali, Ubuntu), macOS
+
+---
+
+## 💻 Projects
+
+- [🔍 Nessus Vulnerability Scan Lab](https://github.com/rizuanul90/nessus-vulnerability-scan) — Identified and documented Critical/High CVEs; remediation recommendations included
+- [💣 Metasploit Workspace & SSH Brute Force Lab](https://github.com/rizuanul90/Metasploit-Workspace-and-SSH-Brute-Force-lab) — Network reconnaissance, reverse TCP payload deployment, Meterpreter post-exploitation
+- [🌐 WordPress Exploitation Lab](https://github.com/rizuanul90/WordPress-Exploitation-Lab) — Exploited vulnerable WordPress instance; documented attacker TTPs from a defender perspective
+- [🐍 Python IP Allow List Algorithm](https://github.com/rizuanul90/PythonLab) — Engineered a custom Python script to parse and dynamically automate network access control lists
+- [🖥️ Active Directory Home Lab](https://github.com/rizuanul90/ActiveDirectoryLab) — Configured AD environments including user permissions and Group Policy Objects (GPOs)
+
+---
+
+## 📜 Certifications
 
 - [CompTIA Security+](https://www.credly.com/badges/73a23efc-5cf8-4cb5-a3e8-d80ffa4f1ce0/public_url)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/0ef793b8-8dd9-4230-b42a-f4e4e62a3998/public_url)
 - [Google AI Essentials](https://www.credly.com/badges/6b4f8214-16c7-40fb-8708-ae08b01165fd/public_url)
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## 🎓 Training & Education
 
-<h2> 🤳 Connect with me:</h2>
+- **NPower Advanced Cybersecurity Cohort** — Graduated June 2026 | SOC operations, threat hunting, log analysis, incident response, vulnerability assessment
+- **Network Security Internship** — The Cyber Ledger (Jan 2026 – Present) | Packet analysis, enterprise protocol analysis, Sigma rules, SOC workflow
+- **B.A.S. in Computer Science & Information Security** — John Jay College of Criminal Justice (Expected 2026)
 
+---
 
-[<img align="left" alt="rizuanul-haque | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤳 Connect with Me
 
-[linkedin]: www.linkedin.com/in/rizuanul-haque
-
-<!--
-**rizuanul90/rizuanul90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/rizuanul-haque)
