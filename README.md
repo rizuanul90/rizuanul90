@@ -14,7 +14,8 @@ IT professional with 4+ years of experience in QA engineering and systems valida
 
 ## 🛠️ Technical Skills
 
-- **Security & Networking:** SIEM (Splunk/Sentinel), Wireshark, Nmap, Nessus, Metasploit, IDS/IPS, EDR
+- **Security Operation:** SIEM (Splunk/Wazuh), Wireshark, Nmap, Nessus, Metasploit, IDS/IPS, EDR
+- **Networking:** TCP/IP, OSI Model, DNS, DHCP, HTTP/HTTPS, VLANs, ACLs, Switching, Routing, VPNs
 - **Scripting & Automation:** Python, Bash, SQL, Java
 - **Cloud & Infrastructure:** AWS, Azure, VMware, VirtualBox, Active Directory
 - **Operating Systems:** Windows, Linux (Kali, Ubuntu), macOS
