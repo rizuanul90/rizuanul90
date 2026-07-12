@@ -23,7 +23,7 @@ IT professional with 4+ years of experience in QA engineering and systems valida
 ---
 
 ## 💻 Projects
-- [🖥️ Wazuh SIEM/XDR Home Lab](https://github.com/rizuanul90/Wazuh-SIEM-Lab)
+- [🖥️ Wazuh SIEM/XDR Home Lab](https://github.com/rizuanul90/Wazuh-SIEM-Lab) — Self-hosted Wazuh SIEM/XDR lab with Windows agent onboarding, multi-vendor syslog integration.
 - [🔍 Nessus Vulnerability Scan Lab](https://github.com/rizuanul90/nessus-vulnerability-scan) — Identified and documented Critical/High CVEs; remediation recommendations included
 - [💣 Metasploit Workspace & SSH Brute Force Lab](https://github.com/rizuanul90/Metasploit-Workspace-and-SSH-Brute-Force-lab) — Network reconnaissance, reverse TCP payload deployment, Meterpreter post-exploitation
 - [🌐 WordPress Exploitation Lab](https://github.com/rizuanul90/WordPress-Exploitation-Lab) — Exploited vulnerable WordPress instance; documented attacker TTPs from a defender perspective
