@@ -8,7 +8,7 @@
 
 ## 🔐 About Me
 
-IT professional with 4+ years of experience in QA engineering and systems validation, now fully focused on cybersecurity. I've trained in SOC operations, threat analysis, vulnerability assessment, and incident response through NPower's Advanced Cybersecurity Cohort and an active Network Security internship at The Cyber Ledger. I hold CompTIA Security+ and am actively pursuing SOC Analyst and Security Engineer roles.
+IT professional with 4+ years of experience in QA engineering and systems validation, now building skills on cybersecurity. I've trained in SOC operations, threat analysis, vulnerability assessment, and incident response through NPower's Advanced Cybersecurity Cohort and an active Network Security internship at The Cyber Ledger. I hold CompTIA Security+ and am actively pursuing SOC Analyst and Security Engineer roles.
 
 ---
 
@@ -22,7 +22,7 @@ IT professional with 4+ years of experience in QA engineering and systems valida
 ---
 
 ## 💻 Projects
-
+- [🖥️ Wazuh SIEM/XDR Home Lab](https://github.com/rizuanul90/Wazuh-SIEM-Lab)
 - [🔍 Nessus Vulnerability Scan Lab](https://github.com/rizuanul90/nessus-vulnerability-scan) — Identified and documented Critical/High CVEs; remediation recommendations included
 - [💣 Metasploit Workspace & SSH Brute Force Lab](https://github.com/rizuanul90/Metasploit-Workspace-and-SSH-Brute-Force-lab) — Network reconnaissance, reverse TCP payload deployment, Meterpreter post-exploitation
 - [🌐 WordPress Exploitation Lab](https://github.com/rizuanul90/WordPress-Exploitation-Lab) — Exploited vulnerable WordPress instance; documented attacker TTPs from a defender perspective
